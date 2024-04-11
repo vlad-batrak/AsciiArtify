@@ -28,14 +28,16 @@ k3d makes it very easy to create single- and multi-node k3s clusters in docker, 
 | **Kind**     | Easy to use and configure.</br>Ability to customize different cluster configuration options.</br>Fast cluster deployment.  | Potential resource issues as it uses Docker containers. |
 | **K3d**      | Rapid creation and testing of clusters.</br>Ability to monitor and manage Kubernetes clusters.</br>Convenient CLI for automating operations. | Requires the installation of RKE to support more complex scenarios.  |
 
-## Demo
-
-![demo.gif]()
-
 ## Summary
 
 Minikube is slightly ahead of all options and the closest to the official Kubernetes development roadmap. Especially, for a single developer the entry barrier seems quite low. Or for the purpose of organizing presentations on one computer or laptop. 
 But in my opinion, for a small development team like the "AsciiArtify" startup, should choose between the remaining two options. Thus, taking into account the comparison of working parameters, I would like to recommend using a multiple lightweight Kubernetes cluster like Kind - the best chois for scenarios where you need to create Kubernetes clusters using Docker containers as nodes, with easy setup, team configuration, for testing and development purposes. 
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/wBhmF7NJK7FPC1W03LajFdPGV.svg)](https://asciinema.org/a/wBhmF7NJK7FPC1W03LajFdPGV)
+
+#### REFERENCES
 
 [^1]: [https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html](https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html)
 [^2]: [https://microk8s.io/compare](https://microk8s.io/compare)
