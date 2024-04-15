@@ -35,7 +35,15 @@ But in my opinion, for a small development team like the "AsciiArtify" startup, 
 
 ## Demo
 
-![asciicast](img/demo.gif)
+Gif-demo
+
+![Concept demo](img/demo.gif)
+
+або asciicast
+
+[![asciicast](https://asciinema.org/a/wBhmF7NJK7FPC1W03LajFdPGV.svg)](https://asciinema.org/a/wBhmF7NJK7FPC1W03LajFdPGV)
+
+
 
 #### REFERENCES
 

@@ -46,4 +46,10 @@
 
 ### Demo
 
+Gif-demo
+
 ![Demo PoC](img/demo2.gif)
+
+або asciicast
+
+[![asciicast](https://asciinema.org/a/xtz7jt7yTGFeaZ2IerCcCVGMq.svg)](https://asciinema.org/a/xtz7jt7yTGFeaZ2IerCcCVGMq)
