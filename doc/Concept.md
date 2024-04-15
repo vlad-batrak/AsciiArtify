@@ -39,7 +39,7 @@ Gif-demo
 
 ![Concept demo](img/demo.gif)
 
-або asciicast
+or asciicast
 
 [![asciicast](https://asciinema.org/a/wBhmF7NJK7FPC1W03LajFdPGV.svg)](https://asciinema.org/a/wBhmF7NJK7FPC1W03LajFdPGV)
 
