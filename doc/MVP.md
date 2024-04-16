@@ -20,6 +20,18 @@
 
 ![Setup new App](img/ArgoCD_newApp-6.PNG)
 
+4. Let's create a fork of the original repository and change the application settings of the REPO URL.
+
+![Setup new App](img/ArgoCD_newApp-7.PNG)
+
+5. Сhange the file /helm/values.yaml in the repository and make a commit
+
+![Setup new App](img/ArgoCD_newApp-8.PNG)
+
+6. After 3 minutes, Argo CD will compare the git-repository with the application configuration and begin auto synchronization
+
+![Setup new App](img/ArgoCD_newApp-9.PNG)
+
 
 ### Demo
 
