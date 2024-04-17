@@ -20,7 +20,7 @@
 
 ![Setup new App](img/ArgoCD_newApp-6.PNG)
 
-4. Let's create a fork of the original repository and change the application settings of the REPO URL.
+4. Let's create a fork of the original repository and change the application settings of the **REPO URL** and **AUTO SYNC POLICY** is **"Enabled"**.
 
 ![Setup new App](img/ArgoCD_newApp-7.PNG)
 
